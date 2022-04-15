@@ -28,10 +28,30 @@
   color: #61dafb;
 }
 
+.contenedor {
+  border: solid;
+  color: rgb(190, 22, 22);
+  margin-left: 20em;
+  margin-top: 10em;
+  background: rgb(190, 187, 187);
+}
+
+div {
+  position: center;
+  border: solid;
+  color: rgb(190, 22, 22);
+  height: 200px;
+  width: 300px;
+  margin-left: 20em;
+  margin-top: 10em;
+  background: rgb(190, 187, 187);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
