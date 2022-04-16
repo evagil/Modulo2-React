@@ -30,21 +30,12 @@
 
 .contenedor {
   border: solid;
-  color: rgb(190, 22, 22);
-  margin-left: 20em;
-  margin-top: 10em;
-  background: rgb(190, 187, 187);
-}
-
-div {
-  position: center;
-  border: solid;
-  color: rgb(190, 22, 22);
-  height: 200px;
-  width: 300px;
-  margin-left: 20em;
-  margin-top: 10em;
-  background: rgb(190, 187, 187);
+  margin: 20em;
+  padding: 16px;
+  margin-left: 450px;
+  margin-right: 450px;
+  color: #4b828b;
+  background-color: burlywood;
 }
 
 @keyframes App-logo-spin {
