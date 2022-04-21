@@ -1,0 +1,16 @@
+.contenedor_div {
+    border: solid;
+    margin: 10em;
+    padding: 12px;
+    margin-left: 450px;
+    margin-right: 450px;
+    color: #4b828b;
+    background-color: burlywood;
+}
+
+.th,
+.td {
+    border: 1px solid black;
+    margin: 0px 0px;
+    padding: 5px 5px;
+}
